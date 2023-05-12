@@ -19,3 +19,4 @@
 ##### 5. 참고자료(Reference)
 ##### 1. 불당, "proxy를 거쳐올 때, real ip를 찾아내기", http://opencode.co.kr/php_tips/157, Last Modified 2012-04-05 10:33:01, Accessed by 2023-05-13.
 ##### 2. 관리자1, "[G5] 방문자 실제 사용하는 IP(Real IP) 사용하기", https://www.happyjung.com/lecture/2839?page=7, Last Modified 2020-10-06 19:03:21, Accessed by 2023-05-13.
+##### 3. Sir, "그누보드", https://sir.kr, Last Modified 2023-05-13, Accessed by 2023-05-13.
